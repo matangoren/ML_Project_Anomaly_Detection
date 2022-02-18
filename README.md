@@ -7,7 +7,7 @@ Matan Goren & Michael Gorjaltsan
 In this assignment we chose  to review the study: “Outlier Detection for Time Series with Recurrent Autoencoder Ensembles” by Tung Kieu, Bin Yang, Chenjuan Guo, and Christian S Jensen, posted in IJCAI 19, Aug. 2019.
 
 ## HOW TO RUN
-In order to run the code simply upload the .ipynb to your google drive and open in using google colab (recommended), upload the datasets provided to your own google drive account (don't forget to change the google drive path in code accordingly to the your chosen file names)
+In order to run the code simply upload the .ipynb to your google drive and open in using google colab (recommended), upload the datasets provided to your own google drive account (don't forget to change the google drive path in code according to the your chosen file names)
 and run the notebook.
 
 ## Models Hyperparameters
